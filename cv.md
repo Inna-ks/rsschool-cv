@@ -3,7 +3,7 @@
 
 ####Junior Frontend Developer####
 ----
-![avatar](avatar.jpg "My avatar")
+![avatar](./assets/img/avatar.jpg "My avatar")
 ##Contacts##
     * ###Location:### Kharkiv, Ukraine
     * ###Telegram:### @Waterfall_fast
